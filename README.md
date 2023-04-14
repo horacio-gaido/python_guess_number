@@ -1,11 +1,12 @@
 # Python Guessing Game
 ## Table of Contents
 
-- [Getting Started](#Getting Started)
-- [Prerequisites](#Prerequisites)
-- [Installation](#Installation)
-- [Running the code](#Running the code)
-- [License](#License)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the code](#running-the-code)
+- [License](#license)
+
 
 
 ## Getting Started
