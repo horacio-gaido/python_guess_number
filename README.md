@@ -11,7 +11,7 @@ To run this game, you need to have Python 3 installed on your system.
 ## Installation
 Clone this repository to your local machine using:
 ```sh
-git clone https://github.com/your_username/guessing-game.git
+git clone https://github.com/horacio-gaido/python_guess_number.git
 ```
 
 ## Running the code
