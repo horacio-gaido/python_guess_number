@@ -17,7 +17,7 @@ git clone https://github.com/horacio-gaido/python_guess_number.git
 ## Running the code
 To run the game, open a terminal or command prompt and navigate to the directory where you cloned the repository. Then, enter the following command:
 ```sh
-python guess_number.py
+py guess_number.py
 ```
 
 The code can be run by calling the play_game() function which runs the game logic. The code also uses the os module to clear the console after each guess, making the output easier to read. The code is compatible with Python 3.
