@@ -25,4 +25,4 @@ The game will start and prompt you to enter a number between 1 and 100. After ea
 
 ## License
 
-This investigation is licensed under the MIT License. See the [LICENSE.md](.....) file for details.
+This investigation is licensed under the MIT License. See the [LICENSE.md](https://github.com/horacio-gaido/python_guess_number/blob/main/LICENCE.md) file for details.
