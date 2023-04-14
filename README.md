@@ -1,10 +1,18 @@
 # Python Guessing Game
+## Table of Contents
+
+- [Getting Started](##Getting Started)
+- [Prerequisites](##Prerequisites)
+- [Installation](##Installation)
+- [Running the code](##Running the code)
+- [License](##notebooks)
+
 
 ## Getting Started
 This is a simple guessing game implemented in Python. The user has to guess a secret number between 1 and 100 in as few attempts as possible.
 
 
-### Prerequisites
+## Prerequisites
 To run this game, you need to have Python 3 installed on your system.
 - Python 3
 
